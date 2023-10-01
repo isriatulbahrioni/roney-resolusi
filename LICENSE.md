@@ -3,3 +3,4 @@ roney-resolusi
 - cita-cita saya untuk menjadi progremer
 - saya akan selalu kosisten untuk belajar
 -progremer adalah impian saya
+-ingin menjadi seorang berkarir
